@@ -4,7 +4,7 @@ import {
   Plus, Save, Trash2, ChevronLeft, Copy, Camera, FileDown,
   DoorOpen, Ruler, Grid2X2, FolderOpen, Settings2
 } from "lucide-react";
-import { WAD_PROFILES, ELEMENT_TYPES } from "./data/wadCatalog";
+import { WAD_PROFILES, ELEMENT_TYPES } from "./wadCatalog";
 import "./styles.css";
 
 const STORAGE_KEY = "durako-opname-v1";
